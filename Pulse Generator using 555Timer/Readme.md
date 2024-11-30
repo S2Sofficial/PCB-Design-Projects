@@ -89,9 +89,9 @@ The PCB design transitioned the validated schematic into a functional layout for
 ---
 
 ## 8. Project Files  
-- **Schematic Diagram:** [Download Link]  
-- **PCB Layout:** [Download Link]  
-- **Gerber Files:** [Download Link]  
+- **Schematic Diagram:** [Download Link](https://github.com/S2Sofficial/PCB-Design-Projects/blob/main/Pulse%20Generator%20using%20555Timer/Pulse%20Generator.rar)
+- **PCB Layout:** [Download Link](https://github.com/S2Sofficial/PCB-Design-Projects/blob/main/Pulse%20Generator%20using%20555Timer/PCB_Pulse-Generator-PCB_2024-11-30.pdf)
+- **Gerber Files:** [Download Link](https://github.com/S2Sofficial/PCB-Design-Projects/blob/main/Pulse%20Generator%20using%20555Timer/Gerber_Swaroop_Pulse-Generator-PCB_2024-11-30.zip)
 
 ---
 
@@ -99,3 +99,6 @@ The PCB design transitioned the validated schematic into a functional layout for
 - **Udemy Course:** The foundation for learning PCB design principles.  
 - **EasyEDA:** For providing a user-friendly platform to apply these principles.
 - **Proteus:** For Schematic and Simulation 
+
+---
+Project by Swaroop Kumar Yadav (Swaroop2sky)
